@@ -5,7 +5,7 @@ body {
     font-family: 'Gideon Roman', 'Arial', 'sans-serif';
 }
 
-/*About me page styles */
+/*About page styles */
 
 .profileimg {
     width: 300px;
@@ -87,7 +87,21 @@ body {
     color: white;
 }
 
-/*Homepage styles */
+.hmlink{
+    text-align: center;
+    font-size: 30px;}
+
+.indexhmlink{
+    text-decoration: none;
+    color: black;
+}
+
+.indexhmlink:hover{
+   font-style: italic; 
+   color:lightslategrey ;
+}
+
+/*index page styles */
 
 .homepage{
     background-color: #6B705C;
