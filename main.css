@@ -1,0 +1,122 @@
+/* Common Styling */
+
+body {
+    margin: 0px;
+    font-family: 'Gideon Roman', 'Arial', 'sans-serif';
+}
+
+/*About me page styles */
+
+.profileimg {
+    width: 300px;
+    border-radius: 150px;
+}
+
+.designation {
+    font-style: italic;
+}
+
+.herosection {
+    background-color: #6B705C;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px;
+}
+
+.spacedcontainer {
+    margin: 60px;
+    padding: 40px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.border {
+    border-top: 10px solid #CB997E;
+}
+
+.aboutsection {
+    background-color: #B7B7A4;
+    font-family: 'Redressed', cursive , 'Arial', 'sans-serif';
+}
+
+.aboutcontent {
+    font-style: italic;
+    line-height: 26px; 
+}
+
+.hobbieslist{
+   line-height: 40px;
+}
+
+.education-table{ 
+    border: 2px solid black;
+    width: 100%;
+    text-align: center;
+}
+
+.education-table td{
+    margin: 0px;
+    border: 1px dotted black;
+}
+
+.education-table th{
+    text-decoration: underline;
+}
+
+.favmovies{
+    margin-top: 0px;
+}
+
+.movieslist{
+    display:inline-block;
+    width: 400px;
+}
+
+.moviepics{
+    height: 300px;
+    width: 300px;
+}
+
+.moviename{
+    font-weight: bold;
+}
+
+.home-body{
+    margin: 0px;
+    font-size: 35px;
+    color: white;
+}
+
+/*Homepage styles */
+
+.homepage{
+    background-color: #6B705C;
+    height: 500px;
+    padding: 50px;
+    text-align: center;
+}
+
+.about-link{
+    color: #eddcd2 ;
+    font-size: 25px;
+    padding: 5px;
+    border: 1px solid #eddcd2 ;
+    text-decoration: none;
+}
+
+.about-link:hover{
+    color: black;
+} 
+
+.home-heading {
+    margin-top: 0px;
+}
+
+.background-div{
+    height: 375px;
+}
+
+.background-img{
+    width: 100%;
+    height: 510px;
+}
