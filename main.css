@@ -134,3 +134,13 @@ body {
     width: 100%;
     height: 510px;
 }
+
+.cart-icon {
+    position: fixed;
+    right: 0;
+    top: 121px;
+    background: #fff;
+    padding: 10px;
+    box-shadow: -2px 2px 7px rgba(0, 0, 0, 0.3);
+    z-index: 10;
+  }
